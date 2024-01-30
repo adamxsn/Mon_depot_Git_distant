@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 confused 2
+=======
+Texte confused 1
+>>>>>>> ma-nouvelle-branche
